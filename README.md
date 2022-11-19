@@ -1,5 +1,5 @@
 # Java-data-structures
-A list of data structures(and their implementations) I had fun implementing in 2022 in Java
+A list of data structures(and their implementations) I had fun implementing since 2022 in Java
 
 # List
 1. Binary search tree : 
