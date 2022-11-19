@@ -3,5 +3,5 @@ A list of data structures(and their implementations) I had fun implementing sinc
 
 # List
 1. AVL tree : https://github.com/waveyboym/Java-data-structures/tree/main/AVL%20trees
-2. M-way B-tree : 
+2. M-way B-tree : https://github.com/waveyboym/Java-data-structures/tree/main/b-tree
 3. M-way B+ tree : https://github.com/waveyboym/Java-data-structures/tree/main/b-plus%20trees
